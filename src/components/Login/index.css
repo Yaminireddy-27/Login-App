@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.button {
+  background-color: #f8fafc;
+  border-width: 0px;
+  color: #303150;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+}
